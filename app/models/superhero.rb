@@ -1,2 +1,2 @@
-class Superhero 
+class Superhero
 end 
